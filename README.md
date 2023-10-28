@@ -1,0 +1,2 @@
+# gppd-dashboard
+The Global Power Plant Database was created by World Resources Institute (WRI) experts and their partners from official government data and independent sources around the world, integrated them with crowdsourced data such as analysis of satellite images, and delivered the final database as an open data resource. This database contains information about more than 34000 power plants in 166 countries.
