@@ -1,2 +1,5 @@
-# gppd-dashboard
-The Global Power Plant Database was created by World Resources Institute (WRI) experts and their partners from official government data and independent sources around the world, integrated them with crowdsourced data such as analysis of satellite images, and delivered the final database as an open data resource. This database contains information about more than 34000 power plants in 166 countries.
+# Cơ sở dữ liệu Năng lượng Toàn cầu
+The Global Power Plant Database là cơ sở dữ liệu toàn diện về các nhà máy điện trên toàn thế giới được tạo ra bởi Viện tài nguyên thế giới (WRI).
+Cơ sở dữ liệu này bao gồm thông tin khoảng 34.000 nhà máy điện từ 166 quốc gia và bao gồm các loại nhà máy nhiệt điện (than, khí, dầu, hạt nhân, sinh học, chất thải,...) và năng lượng tái tạo (như thủy điện, gió, năng lượng mặt trời). Mỗi nhà máy điện được định vị địa lý và các thông tin về công suất, sản lượng, sở hữu và loại nhiên liệu của nhà máy. 
+
+Nguồn: https://datasets.wri.org/dataset/globalpowerplantdatabase
